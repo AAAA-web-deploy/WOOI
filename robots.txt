@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aaaa-web-deploy.github.io/WOOI/sitemap.xml

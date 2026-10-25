@@ -1,0 +1,16 @@
+{
+  "name": "wooi-wildwood-odd-one-in",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "The complete, dependency-free WOOI website.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs --production"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
